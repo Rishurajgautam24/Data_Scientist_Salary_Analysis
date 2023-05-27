@@ -1,30 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 30px;
-    }
 
-    h1, h2, h3 {
-      color: #333;
-      border-bottom: 1px solid #ccc;
-      padding-bottom: 10px;
-    }
-
-    ul {
-      list-style-type: disc;
-      margin-left: 20px;
-    }
-
-    code {
-      font-family: Consolas, monospace;
-      background-color: #f4f4f4;
-      padding: 2px 5px;
-    }
-  </style>
-</head>
 <body>
   <h1>Data Scientist Salary Analysis</h1>
 
