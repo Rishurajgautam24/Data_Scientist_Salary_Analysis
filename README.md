@@ -43,13 +43,13 @@
     <li>Clone the repository:</li>
   </ol>
 
-  <pre><code>git clone https://github.com/your-username/data-scientist-salary-analysis.git</code></pre>
+  <pre><code>git clone https://github.com/Rishurajgautam24/Data_Scientist_Salary_Analysis.git</code></pre>
 
   <ol start="2">
     <li>Navigate to the project directory:</li>
   </ol>
 
-  <pre><code>cd data-scientist-salary-analysis</code></pre>
+  <pre><code>cd Data_Scientist_Salary_Analysis</code></pre>
 
   <ol start="3">
     <li>Install the required dependencies (if any) specified in the project.</li>
